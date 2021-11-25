@@ -1,0 +1,12 @@
+# CraftableHorseEquipment v1.0.0 configuration file
+# Made by J4K0B55
+# Github: https://github.com/J4K0B55/CraftableHorseEquipment 
+
+# Recipes are set to 'true' by default
+# To disable a recipe change the value to 'false'
+# Then reload/restart your server or use the /craftablehorseequipment reload command!
+
+IronHorseArmor: true
+GoldenHorseArmor: true
+DiamondHorseArmor: true
+Saddle: true

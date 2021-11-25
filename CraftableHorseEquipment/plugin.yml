@@ -1,0 +1,9 @@
+name: CraftableHorseEquipment
+main: me.J4K0B55.CraftableHorseEquipment.Main
+version: 1.0.0
+author: J4K0B55
+website: https://github.com/J4K0B55/CraftableHorseEquipment
+commands:
+  craftablehorseequipment:
+    description: "Main command" 
+    aliases: ['che']
