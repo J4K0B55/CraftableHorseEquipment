@@ -6,7 +6,8 @@ A very lightweight minecraft spigot plugin that makes it possible to craft saddl
 
 |                  Command                  |                         Description                          | Permissions                               |
 | :---------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
-|          /craftablehorseequipment         |                   Description of the plugin                  | None                                      |
+|          /craftablehorseequipment         |                   Main command of the plugin                 | None                                      |
+|          /craftablehorseequipment help    |                   Displays all the subcommands               | None                                      |
 |          /craftablehorseequipment reload  |                   Reloads the plugin configuration file      | craftablehorseequipment.reload            |
 
 ## ⚙️ Compatibility
@@ -20,13 +21,13 @@ The recipes for the items:
 
 ## 🔧 Installation
 
-The latest build of this plugin can be found [here](https://www.spigotmc.org/).
+The latest build of this plugin can be found [here](https://www.spigotmc.org/resources/craftablehorseequipment.97884/).
 Then follow these steps below:
-- [Download](downloadlink) the .jar file
+- [Download](https://www.spigotmc.org/resources/craftablehorseequipment.97884/download?version=428261) the .jar file
 - Move the .jar file in your plugins folder
 - Restart/reload your server
 
 ## 📜 License
 
-This plugin is released under the GNU General Public License v3.0.
-See [`LICENSE`](https://github.com/J4K0B55/CraftableHorseEquipment/blob/main/LICENSE) for more info.
+This plugin is released under the MIT License.
+See [`LICENSE`](https://github.com/J4K0B55/CraftableHorseEquipment/blob/master/LICENSE) for more info.
