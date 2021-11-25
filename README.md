@@ -24,7 +24,7 @@ The recipes for the items:
 The latest build of this plugin can be found [here](https://www.spigotmc.org/resources/craftablehorseequipment.97884/).
 Then follow these steps below:
 - [Download](https://www.spigotmc.org/resources/craftablehorseequipment.97884/download?version=428261) the .jar file
-- Move the .jar file in your plugins folder
+- Move the .jar file into your plugins folder
 - Restart/reload your server
 
 ## 📜 License
